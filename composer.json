@@ -1,0 +1,19 @@
+{
+    "name": "nodesagency/cakephp_rest_datasource",
+    "type": "cakephp-plugin",
+    "keywords": [
+        "cakephp",
+        "rest",
+        "datasource"
+    ],
+    "homepage": "https://github.com/nodesagency/CakePHP-Rest-Datasource/",
+    "support": {
+        "issues": "https://github.com/nodesagency/CakePHP-Rest-Datasource/issues",
+        "source": "https://github.com/nodesagency/CakePHP-Rest-Datasource"
+    },
+    "require": {
+        "php": ">=5.3.0",
+        "composer/installers": "*",
+        "nodesagency/cakephp_platform_common_plugin": "dev-master"
+    }
+}
